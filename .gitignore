@@ -1,0 +1,8 @@
+dataset/
+stft_features_npy/
+features_extraidas/
+*.npy
+*.npz
+*.csv
+*.pkl
+*.tar.gz
